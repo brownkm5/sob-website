@@ -1,0 +1,79 @@
+//media queries
+//hero image size needs to be adjusted
+
+//page
+.page {
+  margin-bottom: 50px;
+}
+.bold {
+  font-weight: bold;
+}
+//nav
+nav{
+  background-color: white;
+  margin-bottom: 20px;
+
+  .nav-wrapper {
+    .brand-logo {
+      height: 100%;
+      img {
+        width: 100px;
+        height: 90%;
+        margin-top: 5%;
+      }
+    }
+    a {
+      i {
+        color: #079DD3;
+      }
+    }
+    .desktop-navbar {
+      li {
+        a {
+          color: #079DD3;
+        }
+      }
+    }
+  }
+}
+
+//banner image
+.hero-image {
+  img {
+    width: 100%;
+  }
+}
+
+//about us
+
+
+//reserve button
+.reserve-button {
+  a {
+    background-color: #079DD3;
+  }
+}
+
+//footer
+footer {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+
+  div {
+    // display: inline-block;
+    // margin: 0 auto;
+  }
+  .right {
+    span {
+      vertical-align: top;
+    }
+  }
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+  img {
+    height: 50px;
+  }
+}

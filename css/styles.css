@@ -1,0 +1,39 @@
+.page {
+  margin-bottom: 50px; }
+
+.bold {
+  font-weight: bold; }
+
+nav {
+  background-color: white;
+  margin-bottom: 20px; }
+  nav .nav-wrapper .brand-logo {
+    height: 100%; }
+    nav .nav-wrapper .brand-logo img {
+      width: 100px;
+      height: 90%;
+      margin-top: 5%; }
+  nav .nav-wrapper a i {
+    color: #079DD3; }
+  nav .nav-wrapper .desktop-navbar li a {
+    color: #079DD3; }
+
+.hero-image img {
+  width: 100%; }
+
+.reserve-button a {
+  background-color: #079DD3; }
+
+footer {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px; }
+  footer .right span {
+    vertical-align: top; }
+  footer a {
+    color: black;
+    text-decoration: underline; }
+  footer img {
+    height: 50px; }
+
+/*# sourceMappingURL=styles.css.map */
