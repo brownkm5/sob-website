@@ -4,11 +4,10 @@ include('inc/header.php');
 ?>
 <div class="cuisine">
   <h5>Soby's New South Cuisine</h5>
-  <p>Soby's cuisine is an eclectic blend of contemporary, International and traditional cuisines. Starting with fresh, seasonal ingredients, often from local farmers and producers, our chefs transform Old Southern favorites into something fresh and new and Ohhhhhhhh my, you've got to try it for yourself to know what we're talking about. Drool over our current dinner menu below.Click to see our <span><a href="dessert.php">Dessert Menu</a></span> or to learn more about our <span><a href="brunch.php">Sunday Brunch.</a></span></p>
-  <p>To view our Gluten Free Menu, please click <span><a href="gluten.php">here</a></span>. </p>
+  <p>Soby's cuisine is an eclectic blend of contemporary, International and traditional cuisines. Starting with fresh, seasonal ingredients, often from local farmers and producers, our chefs transform Old Southern favorites into something fresh and new and Ohhhhhhhh my, you've got to try it for yourself to know what we're talking about. Drool over our current dinner menu below.Click to see our <span><a target='_blank' href="dessert.php">Dessert Menu</a></span> or to learn more about our <span><a target='_blank' href="brunch.php">Sunday Brunch.</a></span></p>
   <br>
 
-  <h6 class="bold">Soby's Dinner Menu:</h6>
+  <h6 class="bld">Soby's Dinner Menu:</h6>
   <p>* Contains Ingredients that are raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness</p>
 <!-- soby's signatures table -->
   <h5>Soby's Signatures</h5>
@@ -167,7 +166,7 @@ include('inc/header.php');
       </tr>
     </tbody>
   </table>
-  <p class="bold">Items can be added to any entrée or salad:</p>
+  <p class="bld">Items can be added to any entrée or salad:</p>
   <p>Add 6 Shrimp - 11</p>
   <p>Add 1 Crab Cake - 11</p>
 

@@ -1,8 +1,11 @@
 .page {
   margin-bottom: 50px; }
 
-.bold {
+.bld {
   font-weight: bold; }
+
+.caps {
+  text-transform: uppercase; }
 
 nav {
   background-color: white;
